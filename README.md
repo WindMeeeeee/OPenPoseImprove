@@ -4,9 +4,9 @@
 - windows 10
 
 ---
-##  Introduction
-
+##  Introduction        
 This project relies on CMU's project OpenPose, in order to use an RBG camera to capture the joint information of the human body in space.
+
 ---
 ## work
 This project is based on the example project 11_asynchronous_custom_output，judge the person's orientation by bone binding。  
